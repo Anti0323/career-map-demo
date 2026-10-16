@@ -1,0 +1,33 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {focusRoles,adjacentTrack,roleCategory} from './career-focus.ts';
+import {positionById} from './data.ts';
+
+test('career view caps a new role category at its entry position',()=>{
+  const current=positionById('0-4')!;
+  assert.deepEqual(focusRoles(current,'营运').map(role=>role.position.level),[4,5]);
+  assert.deepEqual(focusRoles(current,'营运').map(role=>role.kind),['current','promotion']);
+  assert.equal(focusRoles(current,'营运')[1].label,'进入区经理角色');
+  assert.deepEqual(focusRoles(positionById('0-3')!,'营运').map(role=>role.position.level),[3,4,5]);
+  assert.deepEqual(focusRoles(current,'营拓').map(role=>role.position.level),[5,6]);
+  assert.ok(focusRoles(current,'营拓').every(role=>role.kind==='transfer'));
+  assert.deepEqual(focusRoles(current,'营拓').map(role=>role.label),['转营拓 · 晋升 1 级','转营拓 · 晋升 2 级']);
+  assert.deepEqual(focusRoles(current,'拓展'),[]);
+  const expansion=positionById('2-5')!;
+  assert.deepEqual(focusRoles(expansion,'营拓').map(role=>role.position.level),[6]);
+  assert.deepEqual(focusRoles(expansion,'营运'),[]);
+  const integrated=positionById('1-7')!;
+  assert.deepEqual(focusRoles(integrated,'营运'),[]);
+  assert.deepEqual(focusRoles(integrated,'拓展'),[]);
+  assert.deepEqual(focusRoles(positionById('1-11')!,'营拓').map(role=>role.position.level),[11]);
+  assert.deepEqual(focusRoles(positionById('0-5')!,'营拓').map(role=>role.position.id),['1-6','1-7']);
+  assert.deepEqual(focusRoles(positionById('0-8')!,'营拓').map(role=>role.position.id),['1-9','1-10']);
+  assert.deepEqual(focusRoles(positionById('0-9')!,'营拓').map(role=>role.position.id),['1-10']);
+  assert.deepEqual(focusRoles(positionById('2-8')!,'营拓').map(role=>role.position.id),['1-9','1-10']);
+  assert.deepEqual(focusRoles(positionById('1-10')!,'营拓').map(role=>role.position.level),[10,11,12]);
+  assert.deepEqual(focusRoles(positionById('0-10')!,'营运').map(role=>role.position.level),[10]);
+  assert.equal(roleCategory(positionById('0-4')!),'区经理以下');
+  assert.equal(roleCategory(positionById('0-5')!),'区经理');
+  assert.equal(roleCategory(positionById('0-8')!),'大区经理');
+  assert.equal(adjacentTrack('拓展',1),'营运');
+});

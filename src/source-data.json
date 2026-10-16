@@ -1,0 +1,836 @@
+{
+  "skills": [
+    {
+      "id": "skill-y1",
+      "code": "Y1",
+      "name": "执行巡店",
+      "group": "门店营运",
+      "definition": "● 巡店稽核技能\n● 出品品鉴技能\n● 门店利润核算技能",
+      "course": "《线上稽核&线下稽核》\n《标准化茶饮培训》\n《督导角色认知》\n《门店盈利测算》",
+      "assessment": "培训+考试",
+      "assessments": {
+        "营运": "培训+考试",
+        "营拓": "培训+考试"
+      },
+      "verification": "数据结果：\n巡店月覆盖率（报告有效填写率&及时性）\n巡店完整性（巡店抽查通过率）\n日常观察：\n巡店过程中，带着老板巡检执行完整、到位\n数据结果：\n个人新品打卡正确率&及时率\n区域门店新品打卡审核率\n日常观察：巡店过程中，品鉴步骤执行完整、到位\n数据结果：\n数据填写的完整性&及时性\n系统记录利润数据反验的准确率",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E11:F11；认证方式｜认证方式!C2:F2"
+    },
+    {
+      "id": "skill-s1",
+      "code": "S1",
+      "name": "加盟商协同",
+      "group": "加盟商发展",
+      "definition": "● 上传下达，加盟商需求响应",
+      "course": "无需单独课程",
+      "assessment": "述职评估",
+      "assessments": {
+        "营运": "述职评估",
+        "营拓": "述职评估",
+        "拓展": "述职评估"
+      },
+      "verification": "加盟商问卷反馈：满意度达标",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜纯营技能清单!C10:H10；认证方式｜认证方式!C11:F11"
+    },
+    {
+      "id": "skill-y2",
+      "code": "Y2",
+      "name": "发现门店问题",
+      "group": "门店营运",
+      "definition": "● 找到门店问题根因，提出改善方案",
+      "course": "《问题门店根因分析法》",
+      "assessment": "培训+考试+述职评估",
+      "assessments": {
+        "营运": "培训+考试+述职评估",
+        "营拓": "培训+考试+述职评估"
+      },
+      "verification": "日常观察: 巡店时，能按照步骤清单快速、准确的锁定问题根源",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E10:F10；认证方式｜认证方式!C5:F5"
+    },
+    {
+      "id": "skill-y3",
+      "code": "Y3",
+      "name": "改善门店问题",
+      "group": "门店营运",
+      "definition": "● 改善门店问题\n（制定单店问题解决方案，并陪伴落地）",
+      "course": "《问题门店根因分析法》",
+      "assessment": "培训+考试+述职评估",
+      "assessments": {
+        "营运": "培训+考试+述职评估",
+        "营拓": "培训+考试+述职评估"
+      },
+      "verification": "数据结果：\n待办追踪完成率\n门店数据营运基本面改善度（二错等）反验\n日常观察: 巡店时，能快速、准确的锁定改善方案、帮扶动作完整",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E9:F9；认证方式｜认证方式!C6:F6"
+    },
+    {
+      "id": "skill-s3",
+      "code": "S3",
+      "name": "加盟商在店判断",
+      "group": "加盟商发展",
+      "definition": "● 加盟商在店判断",
+      "course": "《加盟商在店判断》",
+      "assessment": "培训+考试+述职评估",
+      "assessments": {
+        "营运": "培训+考试+述职评估",
+        "营拓": "培训+考试+述职评估",
+        "拓展": "培训+考试+月度检核"
+      },
+      "verification": "数据结果：加盟商在店判断标签明确\n日常观察：能讲清判定背后的事实依据",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H9:I9；认证方式｜认证方式!C12:F12"
+    },
+    {
+      "id": "skill-y4-1",
+      "code": "Y4-1",
+      "name": "改善区域问题（复核与推动）",
+      "group": "门店营运",
+      "definition": "●能复核督导/团队的事实和判断，发现区域问题，提出动作要求，并推动执行到位",
+      "course": "《营运区经理的角色认知》",
+      "assessment": "述职评估+结果验证",
+      "assessments": {
+        "营运": "述职评估+结果验证",
+        "营拓": "述职评估+结果验证"
+      },
+      "verification": "数据结果：区域门店数据改善\n日常观察：\n能看出徒弟是否问题抓得准、帮扶投入度高、帮扶方向对；\n能讲清区域店/商的存在哪些共性问题，提出解决方案",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E8:F8；认证方式｜认证方式!C7:F7"
+    },
+    {
+      "id": "skill-s4-1",
+      "code": "S4-1",
+      "name": "加盟商综合判断（提出建议）",
+      "group": "加盟商发展",
+      "definition": "● 提出1-2店加盟商发展建议",
+      "course": "《新商面谈标准》",
+      "assessment": "培训+考试+专家团复核",
+      "assessments": {
+        "营运": "培训+考试+专家团复核",
+        "营拓": "培训+考试+专家团复核",
+        "拓展": "培训+考试+专家团复核"
+      },
+      "verification": "数据结果：面谈结果反验\n日常观察：面谈过程问题清晰，有框架，体验好，对于面谈结论能讲清判定逻辑",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H8:I8；认证方式｜认证方式!C13:F13"
+    },
+    {
+      "id": "skill-y4-2",
+      "code": "Y4-2",
+      "name": "改善区域问题（判断与落地）",
+      "group": "门店营运",
+      "definition": "● 能判断区域问题并解决落地",
+      "course": "《营运区经理的角色认知》",
+      "assessment": "述职评估+结果验证",
+      "assessments": {
+        "营运": "述职评估+结果验证",
+        "营拓": "述职评估+结果验证"
+      },
+      "verification": "数据结果：区域门店数据改善\n日常观察：\n能看出徒弟是否问题抓得准、帮扶投入度高、帮扶方向对；\n能讲清区域店/商的存在哪些共性问题，提出解决方案",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E7:F7；认证方式｜认证方式!C8:F8"
+    },
+    {
+      "id": "skill-s4-2",
+      "code": "S4-2",
+      "name": "加盟商综合判断（方案判断）",
+      "group": "加盟商发展",
+      "definition": "● 判断1-2店加盟商发展方案合理性\n● 提出3-4店加盟商发展/门店调优建议",
+      "course": "《人址匹配》",
+      "assessment": "培训+考试+专家团复核",
+      "assessments": {
+        "营运": "培训+考试+专家团复核",
+        "营拓": "培训+考试+专家团复核",
+        "拓展": "培训+考试+专家团复核"
+      },
+      "verification": "数据结果：加盟商发展标签明确\n日常观察：能讲清判定背后的事实依据",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H7:I7；认证方式｜认证方式!C14:F14"
+    },
+    {
+      "id": "skill-y4-3",
+      "code": "Y4-3",
+      "name": "经营诊断分析",
+      "group": "门店营运",
+      "definition": "● 经营诊断分析（能够对3–4店加盟商进行完整经营诊断，包括商圈、以及门店营运诊断到门店人才梯队和管理机制）",
+      "course": "《营运区经理的角色认知》",
+      "assessment": "述职评估+结果验证",
+      "assessments": {
+        "营运": "述职评估+结果验证",
+        "营拓": "述职评估+结果验证"
+      },
+      "verification": "数据结果：区域低利润门店的改善\n日常观察：能判断清低利润门店的经营问题，能协同相关部门制定出利润提升的方案，并与加盟商达成共识",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E6:F6；认证方式｜认证方式!C9:F9"
+    },
+    {
+      "id": "skill-s4-3",
+      "code": "S4-3",
+      "name": "加盟商综合判断（发展规划）",
+      "group": "加盟商发展",
+      "definition": "● 判断3-4店加盟商发展/门店调优方案合理性\n● 提出5店+加盟商发展规划",
+      "course": "《人址匹配》",
+      "assessment": "培训+考试+专家团复核",
+      "assessments": {
+        "营运": "培训+考试+专家团复核",
+        "营拓": "培训+考试+专家团复核",
+        "拓展": "培训+考试+专家团复核"
+      },
+      "verification": "数据结果：加盟商发展标签明确\n日常观察：能讲清判定背后的事实依据",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H6:I6；认证方式｜认证方式!C15:F15"
+    },
+    {
+      "id": "skill-y5",
+      "code": "Y5",
+      "name": "制定专项",
+      "group": "门店营运",
+      "definition": "● 制定区域专项\n（基于区域门店竞争力判断，从门店位置、店型、加盟商是否在店、门店运营问题等设定专项解决）",
+      "course": "无需单独课程",
+      "assessment": "述职评估",
+      "assessments": {
+        "营运": "述职评估",
+        "营拓": "述职评估"
+      },
+      "verification": "数据结果：区域内对应的营运数据有明显改善\n日常观察：专项方向对、可落地、加盟商也接受",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E5:F5；认证方式｜认证方式!C10:F10"
+    },
+    {
+      "id": "skill-s5",
+      "code": "S5",
+      "name": "加盟商发展规划",
+      "group": "加盟商发展",
+      "definition": "● 区域加盟商发展及资产调优的规划",
+      "course": "《人址匹配》",
+      "assessment": "培训+考试+述职评估+专家团复核",
+      "assessments": {
+        "营运": "培训+考试+述职评估+专家团复核",
+        "营拓": "培训+考试+专家团复核",
+        "拓展": "培训+考试+专家团复核"
+      },
+      "verification": "总部观察：对复杂商的判断准确，处理协调到位\n点位专家团验证：加盟商规划质量经点位专家团验证",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H5:I5；认证方式｜认证方式!C16:F16"
+    },
+    {
+      "id": "skill-t1",
+      "code": "T1",
+      "name": "摸排与单点盈利测算",
+      "group": "点位拓展",
+      "definition": "● 摸排执行能力\n● 单点盈利测算能力",
+      "course": "《单点判断》",
+      "assessment": "培训+考试+月度检核",
+      "assessments": {
+        "营拓": "培训+考试+月度检核",
+        "拓展": "培训+考试+月度检核"
+      },
+      "verification": "数据结果：过会资料的完整性100%\n日常观察：按标准工具完整采集；能区分工作日/周末、季节性和异常；测算准确可复核",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q11:R11；认证方式｜认证方式!C17:F17"
+    },
+    {
+      "id": "skill-t2",
+      "code": "T2",
+      "name": "点位带看",
+      "group": "点位拓展",
+      "definition": "● 点位带看能力",
+      "course": "无需单独课程",
+      "assessment": "培训+考试+月度检核",
+      "assessments": {
+        "营拓": "培训+考试+月度检核",
+        "拓展": "培训+考试+月度检核"
+      },
+      "verification": "数据结果：带看及时率、带看转化成功率\n日常观察: 带看时能讲清楚“这个铺子为什么好”",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q10:R10；认证方式｜认证方式!C19:F19"
+    },
+    {
+      "id": "skill-t3",
+      "code": "T3",
+      "name": "单点判断",
+      "group": "点位拓展",
+      "definition": "● 提出最佳铺及可选区间",
+      "course": "《最佳铺及最佳建店方案》",
+      "assessment": "培训+考试+月度检核",
+      "assessments": {
+        "营拓": "培训+考试+月度检核",
+        "拓展": "培训+考试+月度检核"
+      },
+      "verification": "数据结果：点位过会通过率",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q9:R9；认证方式｜认证方式!C20:F20"
+    },
+    {
+      "id": "skill-t4",
+      "code": "T4",
+      "name": "最佳建店方案",
+      "group": "点位拓展",
+      "definition": "● 最佳建店方案",
+      "course": "《人址匹配》",
+      "assessment": "培训+考试+述职评估",
+      "assessments": {
+        "营拓": "培训+考试+述职评估",
+        "拓展": "培训+考试+复盘"
+      },
+      "verification": "数据结果：落铺过会通过率\n点位专家团验证：过去点位质量经点位专家团验证\n日常/过会观察：能讲清匹配逻辑",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q8:R8；认证方式｜认证方式!C21:F21"
+    },
+    {
+      "id": "skill-t5",
+      "code": "T5",
+      "name": "多点位商圈规划",
+      "group": "点位拓展",
+      "definition": "● 多点位商圈判断\n（商圈容量评估、批次与节奏判断）\n● 制定人址匹配方案",
+      "course": "《多点商圈规划》",
+      "assessment": "培训+述职评估+现场复核",
+      "assessments": {
+        "营拓": "培训+述职评估+现场复核",
+        "拓展": "培训+述职评估+现场复核"
+      },
+      "verification": "点位专家团验证：多点位商圈规划质量经点位专家团验证\n述职/日常观察：能回答开几家、先开哪家、由谁开、用什么店型；方案逻辑和结果均经得起追问",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q7:R7；认证方式｜认证方式!C22:F22"
+    },
+    {
+      "id": "skill-t6",
+      "code": "T6",
+      "name": "区县规划",
+      "group": "点位拓展",
+      "definition": "● 制定区域规划方案并保证落地\n（区县容量评估、商圈优先级规划、点位批次判断）",
+      "course": "《区县规划》",
+      "assessment": "培训+述职评估+现场复核",
+      "assessments": {
+        "营拓": "培训+述职评估+现场复核",
+        "拓展": "培训+考试+述职评估+专家团复核"
+      },
+      "verification": "数据结果：\n年度目标开店完成率\n开店质量（堂食业绩、年化利润）\n点位专家团验证：区县规划质量经点位专家团验证\n述职/日常观察：能准确划分区块，统筹容量、节奏、团队和资源；避免激进或保守；能解释年度计划与调整依据",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q5:R5；认证方式｜认证方式!C23:F23"
+    },
+    {
+      "id": "skill-m1",
+      "code": "M1",
+      "name": "带教复核",
+      "group": "团队管理",
+      "definition": "● 复核徒弟的执行结果\n● 教团队掌握技能，且拿结果",
+      "course": "《带教认证》\n《领导力课程》",
+      "assessment": "团队结果检核+带教复盘",
+      "assessments": {
+        "营运": "团队结果检核+带教复盘",
+        "营拓": "团队结果检核+带教复盘",
+        "拓展": "团队结果检核+带教复盘"
+      },
+      "verification": "数据结果：团队工作质量（上述）\n团队建设：团队新人带教通过率+亲自成功带教1名伙伴\n日常观察：能识别伙伴短板，给任务、陪练、复盘；",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z7:AA7；认证方式｜认证方式!C27:F27"
+    },
+    {
+      "id": "skill-m2",
+      "code": "M2",
+      "name": "梯队建设",
+      "group": "团队管理",
+      "definition": "● 建梯队：培养继任、管编制与人才状态、形成积极氛围",
+      "course": "《带教认证》\n《领导力课程》",
+      "assessment": "团队建设评估+案例复盘",
+      "assessments": {
+        "营运": "团队建设评估+案例复盘",
+        "营拓": "团队建设评估+案例复盘",
+        "拓展": "团队建设评估+案例复盘"
+      },
+      "verification": "团队建设：团队完整性（编制带宽合理）+有1名以上合格的继任者\n日常观察：\n不是自己包办；能让不同成员拿结果；按人分配任务并纠偏\n从案例中萃取经验，从案例复盘中开始定义团队工作标准",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z5:AA5；认证方式｜认证方式!C28:F28"
+    }
+  ],
+  "requirements": [
+    {
+      "positionId": "0-2",
+      "skillId": "skill-y1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 巡店稽核技能\n● 出品品鉴技能\n● 门店利润核算技能",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E11:F11",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-3",
+      "skillId": "skill-y2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 找到门店问题根因，提出改善方案",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E10:F10",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-3",
+      "skillId": "skill-s1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 上传下达，加盟商需求响应",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H10:I10",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-4",
+      "skillId": "skill-y3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 改善门店问题\n（制定单店问题解决方案，并陪伴落地）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E9:F9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-4",
+      "skillId": "skill-s3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 加盟商在店判断",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H9:I9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-5",
+      "skillId": "skill-y4-1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "●能复核督导/团队的事实和判断，发现区域问题，提出动作要求，并推动执行到位",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E8:F8",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-5",
+      "skillId": "skill-s4-1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 提出1-2店加盟商发展建议",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H8:I8",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-5",
+      "skillId": "skill-m1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 复核徒弟的执行结果\n● 教团队掌握技能，且拿结果",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z7:AA7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-6",
+      "skillId": "skill-y4-2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 能判断区域问题并解决落地",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E7:F7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-6",
+      "skillId": "skill-s4-2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 判断1-2店加盟商发展方案合理性\n● 提出3-4店加盟商发展/门店调优建议",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H7:I7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-7",
+      "skillId": "skill-y4-3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 经营诊断分析（能够对3–4店加盟商进行完整经营诊断，包括商圈、以及门店营运诊断到门店人才梯队和管理机制）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E6:F6",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-7",
+      "skillId": "skill-s4-3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 判断3-4店加盟商发展/门店调优方案合理性\n● 提出5店+加盟商发展规划",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H6:I6",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-7",
+      "skillId": "skill-m2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 建梯队：培养继任、管编制与人才状态、形成积极氛围",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z5:AA5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-8",
+      "skillId": "skill-y5",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 制定区域专项\n（基于区域门店竞争力判断，从门店位置、店型、加盟商是否在店、门店运营问题等设定专项解决）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!E5:F5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "0-8",
+      "skillId": "skill-s5",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 区域加盟商发展及资产调优的规划",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!H5:I5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-3",
+      "skillId": "skill-y1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 巡店稽核技能\n● 出品品鉴技能\n● 门店利润核算技能",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!K11:L11",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-3",
+      "skillId": "skill-s1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 上传下达，加盟商需求响应",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜营拓技能清单!C10:H10",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-3",
+      "skillId": "skill-t1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 摸排执行能力\n● 单点盈利测算能力",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q11:R11",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-4",
+      "skillId": "skill-y2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 识别门店问题，提出改善方案",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!K10:L10",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-4",
+      "skillId": "skill-s1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 上传下达，加盟商区域会议组织、加盟商需求响应",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!N10:O10",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-4",
+      "skillId": "skill-t2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 点位带看能力",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q10:R10",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-5",
+      "skillId": "skill-y3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 改善门店问题\n（制定单店问题解决方案，并陪伴落地）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!K9:L9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-5",
+      "skillId": "skill-s3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 加盟商在店判断",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!N9:O9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-5",
+      "skillId": "skill-t3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 提出最佳铺及可选区间",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q9:R9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-6",
+      "skillId": "skill-y4-1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "●能复核督导/团队的事实和判断，发现区域问题，提出动作要求，并推动执行到位",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!K8:L8",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-6",
+      "skillId": "skill-s4-1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 提出1-2店加盟商发展建议",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!N8:O8",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-6",
+      "skillId": "skill-t4",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 最佳建店方案",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q8:R8",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-6",
+      "skillId": "skill-m1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 复核徒弟的执行结果\n● 教团队掌握技能，且拿结果",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z7:AA7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-7",
+      "skillId": "skill-y4-2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 能判断区域问题并解决落地",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!K7:L7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-7",
+      "skillId": "skill-s4-2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 判断1-2店加盟商发展方案合理性\n● 提出3-4店加盟商发展/资产调优建议",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!N7:O7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-7",
+      "skillId": "skill-t5",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 多点位商圈判断\n（商圈容量评估、批次与节奏判断）\n● 制定人址匹配方案",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q7:R7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-8",
+      "skillId": "skill-y4-3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 经营诊断分析（能够对3–4店加盟商进行完整经营诊断，包括商圈、以及门店营运诊断到门店人才梯队和管理机制）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!K6:L6",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-8",
+      "skillId": "skill-s4-3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 判断3-4店加盟商发展/资产调优方案合理性\n● 提出5店+加盟商发展/资产调优规划",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!N6:O6",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-8",
+      "skillId": "skill-m2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 建梯队：培养继任、管编制与人才状态、形成积极氛围",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z5:AA5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-10",
+      "skillId": "skill-y5",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 制定区域专项\n（基于区域门店竞争力判断，从门店位置、店型、加盟商是否在店、门店运营问题等设定专项解决）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!K5:L5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-10",
+      "skillId": "skill-s5",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 区域加盟商发展规划",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!N5:O5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "1-10",
+      "skillId": "skill-t6",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 制定区域规划方案并保证落地\n（区县容量评估、商圈优先级规划、点位批次判断）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Q5:R5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-5",
+      "skillId": "skill-s3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 加盟商在店判断",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!T9:U9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-5",
+      "skillId": "skill-t1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "摸排执行能力；单点盈利测算能力",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!W9:X9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-5",
+      "skillId": "skill-t2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "点位带看能力",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!W9:X9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-5",
+      "skillId": "skill-t3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "提出最佳铺及可选区间",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!W9:X9",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-6",
+      "skillId": "skill-s4-1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 提出1-2店加盟商发展建议",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!T8:U8",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-6",
+      "skillId": "skill-t4",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 最佳建店方案",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!W8:X8",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-7",
+      "skillId": "skill-s4-2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 判断1-2店加盟商发展方案合理性\n● 提出3-4店发展/调优建议",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!T7:U7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-7",
+      "skillId": "skill-t5",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 多点位商圈规划\n（商圈容量评估、批次与节奏判断）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!W7:X7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-6",
+      "skillId": "skill-m1",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 复核徒弟的执行结果\n● 教团队掌握技能，且拿结果",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z7:AA7",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-8",
+      "skillId": "skill-s4-3",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 判断3-4店加盟商发展/调优方案合理性\n● 提出5店+加盟商发展规划",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!T6:U6",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-9",
+      "skillId": "skill-s5",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 区域加盟商发展规划",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!T5:U5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-9",
+      "skillId": "skill-t6",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 制定区域规划方案并保证落地\n（区县容量评估、商圈优先级规划、点位批次判断）",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!W5:X5",
+      "confirmed": true,
+      "comparable": false
+    },
+    {
+      "positionId": "2-8",
+      "skillId": "skill-m2",
+      "level": 1,
+      "kind": "必备",
+      "raw": "● 建梯队：培养继任、管编制与人才状态、形成积极氛围",
+      "source": "营运拓展营拓技能清单-TO庚涛.xlsx｜技能清单!Z5:AA5",
+      "confirmed": true,
+      "comparable": false
+    }
+  ],
+  "rawMatrixRows": [],
+  "notes": [
+    "岗位与技能代码的对应关系只取自“技能清单”Sheet。",
+    "“认证方式”Sheet 只用于补充课程和结果验证标准。",
+    "三张分路径技能明细表只用于补充评估方式，不参与岗位技能映射。",
+    "软性素质按岗位统一概述，不作为逐项认证技能。"
+  ]
+}
