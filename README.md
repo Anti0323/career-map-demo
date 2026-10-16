@@ -2,7 +2,9 @@
 
 古茗营运、营拓、拓展三条序列的职业发展演示。员工能看见自己现在的岗位、下一步能去哪里、差哪些技能，以及提报晋升前要满足哪些条件。页面是中文纯前端，没有后端、登录、正式审批或真实员工数据。所有修改都写在当前浏览器里。
 
-仓库：<https://github.com/Anti0323/career-map-demo>
+可以直接转发的页面：<https://anti0323.github.io/career-map/>
+
+源码仓库保持私有：<https://github.com/Anti0323/career-map-demo>。公开的只有构建后的页面，岗位、年薪参考和晋升条件对打开链接的人可见。每位访问者的修改只存在自己的浏览器里，互不影响。之后改了源码，需要重新构建并发布，线上页面才会更新。
 
 ## 页面
 
@@ -32,7 +34,10 @@ npm run dev
 ```bash
 npm test          # 比较、路径、晋升标准、技能代码和演示就绪逻辑
 npm run build     # 类型检查后做生产构建，产物在 dist/
+npm run build:pages
 ```
+
+`build:pages` 会按 `/career-map/` 生成可发布的 `dist/`。把其中的 `index.html`、`assets/` 和 `.nojekyll` 推到公开仓库 [career-map](https://github.com/Anti0323/career-map) 的 `main` 分支后，页面地址才会换成新版本。这个公开仓库里没有源码。
 
 ## 一次完整的演示路径
 
